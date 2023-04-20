@@ -1,5 +1,5 @@
-let num1 = 50;
-let num2 = 51;
+const num1 = 500;
+const num2 = -500;
 let i = 0;
 
 let sum = num1 + num2;
@@ -15,8 +15,8 @@ else if (sum < 100) {
 }
 //  if the result of sum is equal to zero this print
 else if (i === sum) {
-  console.log(sum + " 0 is equal to 0");
+  console.log(i + "  is equal to 0");
 }
-// else if (sum === -0) {
-//  console.log ()
-// }
+
+// let sum = num1 + num2;
+if (sum === i) console.log(sum + " is equal to 0");
