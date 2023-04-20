@@ -1,5 +1,5 @@
 let num1 = 50;
-let num2 = -50;
+let num2 = 51;
 let i = 0;
 
 let sum = num1 + num2;
