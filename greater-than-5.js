@@ -1,6 +1,6 @@
 //  num1 and num2 are values to test
-let num1 = 15;
-let num2 = 10;
+let num1 = 5;
+let num2 = 6;
 
 // if num 2 is greater than num1 "true" will print
 if (num2 > num1) {
