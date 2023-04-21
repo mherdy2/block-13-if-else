@@ -16,6 +16,8 @@ else if (sum < 100) {
 //  if the result of sum is equal to zero this print
 else if (i === sum) {
   console.log(i + "  is equal to 0");
+} else if (-1000 < i) {
+  console.log("-1000 is a negative number");
 }
 
 // let sum = num1 + num2;
