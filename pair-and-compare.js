@@ -1,7 +1,7 @@
-const param1A = "cat";
-const param1B = "cat";
-const param2A = 6;
-const param2B = "6";
+let param1A = 11,
+  param1B = "eleven",
+  param2A = "four",
+  param2B = "for";
 
 if (param1A === param1B && param2A == param2B) {
   console.log(true);
