@@ -4,7 +4,7 @@ let param1A = 11,
   param2B = "for";
 // param1A should be strictly equal to param1B
 // while param2A and param2B should be loose equal to each other
-// and if one of the values are false it will return false otherwise true
+// and if all of the values are true it will return true otherwise false
 if (param1A === param1B && param2A == param2B) {
   console.log(true);
 } else {
